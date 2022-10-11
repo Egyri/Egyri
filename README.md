@@ -15,4 +15,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-121212?style=for-the-badge&logo=telegram&logoColor=007979)](https://t.me/Egyri)
 <a href="mailto:egyri89@gmail.com">![Gmail](https://img.shields.io/badge/-Email-121212?style=for-the-badge&logo=gmail&logoColor=D03F36)</a>
 #
+## My statistics in github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egyri&show_icons=true=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
